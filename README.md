@@ -34,4 +34,5 @@ THEN the saved events persist
 ```
 
 ## Mock-Up
-<img src="/Sorna/Work-Day-Scheduler/05-third-party-apis-homework-demo.gif" alt="" style="max-width: 100%;">
+! [screenshot of webpage](./assets/image/05-third-party-apis-homework-demo.gif)
+
