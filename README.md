@@ -1,6 +1,7 @@
-Work Day Scheduler - Third-Party APIs
+## Work Day Scheduler - Third-Party APIs
 
-URL :  https://alsornak.github.io/Work-Day-Scheduler-Week5/
+## URL :  
+https://alsornak.github.io/Work-Day-Scheduler-Week5/
 
 ## Task
 ```md
@@ -31,3 +32,6 @@ THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
 ```
+
+## Mock-Up
+<img src="/Sorna/Work-Day-Scheduler/05-third-party-apis-homework-demo.gif" alt="" style="max-width: 100%;">
