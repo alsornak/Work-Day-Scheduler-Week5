@@ -1,4 +1,4 @@
-## Work Day Scheduler - Third-Party APIs
+# Work Day Scheduler - Third-Party APIs
 
 ## URL : https://alsornak.github.io/Work-Day-Scheduler-Week5/
 
