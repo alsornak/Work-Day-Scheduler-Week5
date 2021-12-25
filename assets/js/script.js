@@ -1,5 +1,5 @@
 // Display today's day and date
-var todayDate = moment().format('dddd, MMM Do YYYY');
+var todayDate = moment().format('dddd, MMM Do YYYY,h:mm:ss a');
 $("#currentDay").text(todayDate);
 
 $(document).ready(function () {
